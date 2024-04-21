@@ -57,10 +57,10 @@
 
 目安時間合計：約101h
 
+AAA
+
 ## 感じたこと
 - パッとみProgateを完了するまでに1、2ヵ月くらいかかりそうな印象
-
-AAA
 
 <details>
 <summary>他メモ</summary>
