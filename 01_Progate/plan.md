@@ -1,4 +1,4 @@
-## Progateの実施計画
+## Progateの実施状況
 リンク：https://prog-8.com/dashboard
 
 |No. |コース分類|コース|目安時間|ステータス|
