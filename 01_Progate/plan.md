@@ -63,6 +63,8 @@
 <details>
 <summary>他メモ</summary>
 
+AAA
+
 - 試しに練習がてらハンドで上記を作ってみたが大変だった、特に整形
 - 表のジェネレータあるならそっちのが楽できそう?<br>
   コレとか<https://notepm.jp/markdown-table-tool><br>
