@@ -10,7 +10,7 @@
 |1-5 |                       |HTML & CSS 上級編               |2h     |完了(4/28)||
 |1-6 |                       |HTML & CSS 上級編(道場レッスン)  |1h40m  |完了(4/28)||
 |1-7 |                       |HTML & CSS Flexbox編            |1h     |完了(4/28)||
-|2-1 |Command Line<br>(約1.5h)|Command Line 基礎編  |1h5m   ||4/28完了予定|
+|2-1 |Command Line<br>(約1.5h)|Command Line 基礎編  |1h5m   |完了(4/28)||
 |3-1 |Ruby<br>(約8h)|Ruby I    |1h30m  |||
 |3-2 |              |Ruby II   |1h45m  |||
 |3-3 |              |Ruby III  |1h10m  |||
