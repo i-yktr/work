@@ -14,8 +14,8 @@
 |3-1 |Ruby<br>(約8h)|Ruby I    |1h30m  |完了(4/28)||
 |3-2 |              |Ruby II   |1h45m  |完了(4/28)||
 |3-3 |              |Ruby III  |1h10m  |完了(4/28)||
-|3-4 |              |Ruby IV   |2h     |||
-|3-5 |              |Ruby V    |1h30m  |||
+|3-4 |              |Ruby IV   |2h     |完了(4/29)||
+|3-5 |              |Ruby V    |1h30m  |完了(4/29)||
 |4-1 |SQL<br>(約8h)|SQL I                |2h  |||
 |4-2 |             |SQL II               |1h  |||
 |4-3 |             |SQL III              |2h  |||
