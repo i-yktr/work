@@ -21,28 +21,28 @@
 |4-3 |             |SQL III              |2h  |完了(4/29)||
 |4-4 |             |SQL Ⅰ(道場レッスン)  |2h  |完了(4/29)||
 |4-5 |             |SQL IV(学習レッスン)  |1h  |完了(4/29)||
-|5-1 |Ruby on Rails5<br>(約31.5h)|Ruby on Rails5 I                 |2h     |||
-|5-2 |                           |Ruby on Rails5 II                |2h30m  |||
-|5-3 |                           |Ruby on Rails5 III               |2h10m  ||4/30完了予定|
+|5-1 |Ruby on Rails5<br>(約31.5h)|Ruby on Rails5 I                 |2h     |完了(4/30)||
+|5-2 |                           |Ruby on Rails5 II                |2h30m  |完了(4/30)||
+|5-3 |                           |Ruby on Rails5 III               |2h10m  |完了(4/30)||
 |5-4 |                           |Ruby on Rails5 I(道場レッスン)    |2h     |||
 |5-5 |                           |Ruby on Rails5 IV                |1h40m  |||
-|5-6 |                           |Ruby on Rails5 V                 |1h50m  |||
-|5-7 |                           |Ruby on Rails5 II(道場レッスン)   |2h     ||5/1完了予定|
-|5-8 |                           |Ruby on Rails5 VI                |2h     |||
+|5-6 |                           |Ruby on Rails5 V                 |1h50m  ||5/1完了予定|
+|5-7 |                           |Ruby on Rails5 II(道場レッスン)   |2h     |||
+|5-8 |                           |Ruby on Rails5 VI                |2h     ||5/2完了予定|
 |5-9 |                           |Ruby on Rails5 VII               |2h     |||
-|5-10|                           |Ruby on Rails5 VIII              |3h     ||5/2完了予定|
+|5-10|                           |Ruby on Rails5 VIII              |3h     ||5/3完了予定|
 |5-11|                           |Ruby on Rails5 III(道場レッスン)  |3h     |||
-|5-12|                           |Ruby on Rails5 IX                |2h     |||
-|5-13|                           |Ruby on Rails5 X                 |2h30m  ||5/3完了予定|
+|5-12|                           |Ruby on Rails5 IX                |2h     ||5/4完了予定|
+|5-13|                           |Ruby on Rails5 X                 |2h30m  |||
 |5-14|                           |Ruby on Rails5 XI                |1h     |||
-|5-15|                           |Ruby on Rails5 IV(道場レッスン)   |3h     |||
+|5-15|                           |Ruby on Rails5 IV(道場レッスン)   |3h     ||5/5完了予定|
 |6-1 |JavaScript<br>(約13h)|JavaScript I                 |2h  |||
-|6-2 |                     |JavaScript II                |2h  ||5/4完了予定|
+|6-2 |                     |JavaScript II                |2h  |||
 |6-3 |                     |JavaScript III               |2h  |||
 |6-4 |                     |JavaScript IV                |3h  |||
-|6-5 |                     |JavaScript V                 |2h  ||5/5完了予定|
+|6-5 |                     |JavaScript V                 |2h  |||
 |6-6 |                     |JavaScript VI(学習レッスン)   |1h  |||
-|6-7 |                     |JavaScript VII(学習レッスン)  |1h  ||5/6完了予定|
+|6-7 |                     |JavaScript VII(学習レッスン)  |1h  |||
 |7-1 |React<br>(約7h)|React I   |1h40m  |||
 |7-2 |               |React II  |1h30m  |||
 |7-3 |               |React III |1h40m  |||
