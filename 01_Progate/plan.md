@@ -22,7 +22,7 @@
 |4-4 |             |SQL Ⅰ(道場レッスン)  |2h  |完了(4/29)||
 |4-5 |             |SQL IV(学習レッスン)  |1h  |完了(4/29)||
 |5-1 |Ruby on Rails5<br>(約31.5h)|Ruby on Rails5 I                 |2h     |完了(4/30)||
-|5-2 |                           |Ruby on Rails5 II                |2h30m  |完了(4/30)||
+|5-2 |                           |Ruby on Rails5 II                |2h30m  |完了(4/30)|内容が重かった|
 |5-3 |                           |Ruby on Rails5 III               |2h10m  |完了(4/30)||
 |5-4 |                           |Ruby on Rails5 I(道場レッスン)    |2h     |||
 |5-5 |                           |Ruby on Rails5 IV                |1h40m  |||
