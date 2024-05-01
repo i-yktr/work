@@ -67,6 +67,6 @@
   コレとか<https://notepm.jp/markdown-table-tool><br>
   だが暫くはハンドで練習したい気持ちあり..
 - 目安時間をサマったりするなら、excelとかから関数で生成するのもありかも?
-- githubのui上で矩形選択できないかなぁ
+- githubのui上で矩形選択する方法ないかな(?)
 
 </details>
