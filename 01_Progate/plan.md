@@ -25,9 +25,9 @@
 |5-3 |                           |Ruby on Rails5 III               |2h10m  |完了(4/30)||
 |5-4 |                           |Ruby on Rails5 I(道場レッスン)    |2h     |完了(5/1)||
 |5-5 |                           |Ruby on Rails5 IV                |1h40m  |完了(5/1)||
-|5-6 |                           |Ruby on Rails5 V                 |1h50m  |||
-|5-7 |                           |Ruby on Rails5 II(道場レッスン)   |2h     ||5/2完了予定|
-|5-8 |                           |Ruby on Rails5 VI                |2h     |||
+|5-6 |                           |Ruby on Rails5 V                 |1h50m  |完了(5/2)||
+|5-7 |                           |Ruby on Rails5 II(道場レッスン)   |2h     |完了(5/2)||
+|5-8 |                           |Ruby on Rails5 VI                |2h     |完了(5/2)||
 |5-9 |                           |Ruby on Rails5 VII               |2h     ||5/3完了予定|
 |5-10|                           |Ruby on Rails5 VIII              |3h     |||
 |5-11|                           |Ruby on Rails5 III(道場レッスン)  |3h     ||5/4完了予定|
