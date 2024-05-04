@@ -30,11 +30,11 @@
 |5-8 |                           |Ruby on Rails5 VI                |2h     |完了(5/2)||
 |5-9 |                           |Ruby on Rails5 VII               |2h     |完了(5/3)||
 |5-10|                           |Ruby on Rails5 VIII              |3h     |完了(5/3)||
-|5-11|                           |Ruby on Rails5 III(道場レッスン)  |3h     ||5/4完了予定|
-|5-12|                           |Ruby on Rails5 IX                |2h     |||
-|5-13|                           |Ruby on Rails5 X                 |2h30m  ||5/5完了予定|
-|5-14|                           |Ruby on Rails5 XI                |1h     |||
-|5-15|                           |Ruby on Rails5 IV(道場レッスン)   |3h     ||5/6完了予定|
+|5-11|                           |Ruby on Rails5 III(道場レッスン)  |3h     |完了(5/4)||
+|5-12|                           |Ruby on Rails5 IX                |2h     |完了(5/4)||
+|5-13|                           |Ruby on Rails5 X                 |2h30m  |完了(5/4)||
+|5-14|                           |Ruby on Rails5 XI                |1h     |完了(5/4)||
+|5-15|                           |Ruby on Rails5 IV(道場レッスン)   |3h     |||
 |6-1 |JavaScript<br>(約13h)|JavaScript I                 |2h  |||
 |6-2 |                     |JavaScript II                |2h  |||
 |6-3 |                     |JavaScript III               |2h  |||
