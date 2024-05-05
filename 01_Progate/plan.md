@@ -34,15 +34,15 @@
 |5-12|                           |Ruby on Rails5 IX                |2h     |完了(5/4)||
 |5-13|                           |Ruby on Rails5 X                 |2h30m  |完了(5/4)||
 |5-14|                           |Ruby on Rails5 XI                |1h     |完了(5/4)||
-|5-15|                           |Ruby on Rails5 IV(道場レッスン)   |3h     |||
-|6-1 |JavaScript<br>(約13h)|JavaScript I                 |2h  |||
-|6-2 |                     |JavaScript II                |2h  |||
-|6-3 |                     |JavaScript III               |2h  |||
-|6-4 |                     |JavaScript IV                |3h  |||
-|6-5 |                     |JavaScript V                 |2h  |||
-|6-6 |                     |JavaScript VI(学習レッスン)   |1h  |||
-|6-7 |                     |JavaScript VII(学習レッスン)  |1h  |||
-|7-1 |React<br>(約7h)|React I   |1h40m  |||
+|5-15|                           |Ruby on Rails5 IV(道場レッスン)   |3h     |完了(5/5)||
+|6-1 |JavaScript<br>(約13h)|JavaScript I    |2h  |完了(5/5)||
+|6-2 |                     |JavaScript II   |2h  |完了(5/5)||
+|6-3 |                     |JavaScript III  |2h  |完了(5/5)||
+|6-4 |                     |JavaScript IV   |3h  |完了(5/5)||
+|6-5 |                     |JavaScript V    |2h  |完了(5/5)||
+|6-6 |                     |JavaScript VI   |1h  |完了(5/5)||
+|6-7 |                     |JavaScript VII  |1h  |完了(5/5)||
+|7-1 |React<br>(約7h)|React I   |1h40m  |完了(5/5)||
 |7-2 |               |React II  |1h30m  |||
 |7-3 |               |React III |1h40m  |||
 |7-4 |               |React IV  |2h     |||
