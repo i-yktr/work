@@ -46,8 +46,8 @@
 |7-2 |               |React II  |1h30m  |完了(5/6)||
 |7-3 |               |React III |1h40m  |完了(5/6)||
 |7-4 |               |React IV  |2h     |完了(5/6)||
-|8-1 |Node.js<br>(約13.5h)|Node.js I    |1h40m  |||
-|8-2 |                    |Node.js II   |1h40m  |||
+|8-1 |Node.js<br>(約13.5h)|Node.js I    |1h40m  |完了(5/7)||
+|8-2 |                    |Node.js II   |1h40m  |完了(5/7)||
 |8-3 |                    |Node.js III  |1h40m  |||
 |8-4 |                    |Node.js IV   |1h     |||
 |8-5 |                    |Node.js V    |2h30m  |||
