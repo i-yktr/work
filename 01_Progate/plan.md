@@ -50,7 +50,7 @@
 |8-2 |                    |Node.js II   |1h40m  |完了(5/7)||
 |8-3 |                    |Node.js III  |1h40m  |完了(5/8)||
 |8-4 |                    |Node.js IV   |1h     |完了(5/8)||
-|8-5 |                    |Node.js V    |2h30m  |||
+|8-5 |                    |Node.js V    |2h30m  |完了(5/9)||
 |8-6 |                    |Node.js VI   |2h30m  |||
 |8-7 |                    |Node.js VI   |2h30m  |||
 
