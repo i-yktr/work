@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T04:21:12.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.4.13" etag="ULHaeHuXzsluihhFTds6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-01T04:36:14.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="t_ouBP0qnpE4XJ6-1OC9" version="24.4.13" type="github">
   <diagram name="ページ1" id="u9FhlerR7HarqtjbujmV">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="-600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1_vCgVCZ_Ejox_SLCRMH-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1320" width="128" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1_vCgVCZ_Ejox_SLCRMH-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1330" width="117" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1_vCgVCZ_Ejox_SLCRMH-4" value="リクエスト（HTMLくれ！）" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.526666259765625;arrowSize=0.23399993896484375;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1_vCgVCZ_Ejox_SLCRMH-5" value="レスポンス（HTMLどうぞ！）" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;arrowWidth=0.5533335367838542;arrowSize=0.17;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1410" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1_vCgVCZ_Ejox_SLCRMH-6" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1400" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1_vCgVCZ_Ejox_SLCRMH-10" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;クライアント&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（ブラウザのこと）&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;points=[[0,0,0,0,0],[0,0,0,0,35],[0,0,0,0,70],[0,0,0,200,35],[0,0,0,200,70],[0.25,0,0,0,0],[0.5,0,0,0,0],[0.66,1,0,0,3],[0.75,0,0,0,0],[1,0,0,0,0]];base=40;size=30;position=0.4;position2=0.55;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1200" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1_vCgVCZ_Ejox_SLCRMH-12" value="サーバ&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;※事前に&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HTML配置済&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;points=[[0,0,0,0,0],[0,0,0,0,35],[0,0,0,0,70],[0,0,0,200,35],[0,0,0,200,70],[0.25,0,0,0,0],[0.5,0,0,0,0],[0.66,1,0,0,3],[0.75,0,0,0,0],[1,0,0,0,0]];base=40;size=30;position=0.4;position2=0.43;" vertex="1" parent="1">
+          <mxGeometry x="554" y="1200" width="200" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
