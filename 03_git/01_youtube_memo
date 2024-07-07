@@ -1,0 +1,66 @@
+git config --global user.name hoge
+git config --global user.email piyo@email.com
+git config --global core.editor vim
+
+git init
+
+git status
+git add .
+git commit
+
+.env
+.gitignore
+
+git diff
+git diff --staged
+
+git log
+git log --oneline
+git log --oneling --graph
+
+git show <コミットID>
+
+git restore --staged .
+
+# リバート
+git restore --source=HEAD^ .
+
+git branch
+git branch -D <ブランチ名>
+
+git switch <ブランチ名>
+git switch -c <ブランチ名>
+
+git stash push -am "文言"
+
+# 最後のコミットが文言にあたる
+git stash push -a 
+git stash list
+git stash apply <INDEX>
+git stash drop
+
+# ポインタ移動
+fast-forword merge
+
+# 両ブランチの差分統合したコミット作成（create a commitかな？）
+# 「作業ブランチで内容が見やすい」「リバート時の対応が楽」よりこちらがオススメ
+3way merge
+
+git merge --no-ff <マージ対象のブランチ名>
+
+# リベース
+# コミットを作り変えてしまうので、共同ブランチを使用している場合、
+# ブランチの不整合がおきるのでそういった場合は使用しない方がよい
+# 自分のみがfeature1で作業しているならリベースOK
+
+git rebase <ブランチ名>
+
+マージはfeature→master
+リベースはmaster→feature
+
+git remote add origin https://github.com/i-yktr/githab_test2.git
+git remote -v
+
+
+git push origin <ブランチ名>
+git pull origin <ブランチ名>
