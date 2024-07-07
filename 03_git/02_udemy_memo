@@ -43,6 +43,50 @@
       - ツリーファイル
       - コミットファイル
   - git clone <リポジトリ名>
+  - ステージはなんのためにある？
+  - git add <ファイル名>
+  - git add <ディレクトリ名>
+  - git add .
+  - git commit
+  - git commit -m "コミットメッセージ"
+  - git commit -v → 変更対象ファイルだけでなく、変更内容も合わせて見れる
+  - コミットメッセージの書き方
+    - わかりやすくかく
+      - 1行で要点 + 変更理由
+      - 1行目：要点、2行目：空行、3行名：変更理由
+  - git status
+  - git diff <ファイル名>
+  - git diff
+  - git diff --staged
+  - git log
+  - git log --oneline
+  - git log -p <ファイル名>
+  - git log -n <コミット数> 最新のコミットのみ見れる
+  - ファイルの削除はgit add、commitとは別のコマンドを使用する
+  - # ファイルごと削除
+  - git rm <ファイル名>
+  - git rm -r <ディレクトリ名>
+  - ファイルを残したいとき
+  - git rm --chached <ファイル名> ※リポジトリからは消したいけどワークツリーからは消したくない
+  - git mv <旧ファイル> <新ファイル>
+    - 以下と同じ  
+      - mv <旧ファイル> <新ファイル>
+      - git rm <旧ファイル>
+      - git add <新ファイル>
+  - git remote add origin <リモートリポジトリのURL> は別名登録してるだけ
+  - git push <リモート名> <ブランチ名>
+  - git remote add origin https://github.com/i-yktr/git_tutorial.git
+  - git push -u origin master ※-uを初回につけると認証が次回以降不要になる
+  - macの人はキーチェーンアクセス
+  - コマンドにエイリアスをつける
+    - git config --global alias.ci commit
+    - git config --global alias.st status
+    - git config --global alias.br branch
+    - git config --global alias.co checkout
+  - .gitignore
+    - #はコメント
+  
+  
       
 
     
