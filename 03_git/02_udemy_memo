@@ -112,9 +112,46 @@
     - git merge
     - git branch -a
     - git checkout <ブランチ名>
-  
-      
 
+  - pull
+    - git pull origin master
+    - git pull
+    - git fetch
+    - git merge
+  - fetchとpullの使い分け
+    - fetchを基本的に使用するのがオススメ
+    - pullは楽だが挙動が特殊なので注意が必要
+      - 注意点
+        - 現在自分がいるブランチにマージ対象が統合される
+  - git remote show <リモート名>
+  - リモート名の変更・削除
+    - git remote rename <旧> <新>
+    - git remote rm <リモート名>
+
+- ブランチとマージ
+  - ブランチがあると並行しながら複数機能を開発できる
+  - ブランチの仕組み
+    - ブランチはコミットを指示したポインタ
+    - HEADは今自分が作業しているブランチを示したポインタ
+  - ブランチとHEADの中身
+    - ブランチはコミットを指すポインタ
+    - HEADはブランチへのポインタ
+- ブランチ
+  - git branch <ブランチ名>
+  - git branch
+  - git branch -a ※リモートリポジトリも表示する
+  - git checkout <既存ブランチ名>
+  - git checkout -b <新規ブランチ名>
+- マージ
+  - ほかの人の変更内容を自分のブランチに統合する
+  - git merge <ブランチ名>
+  - git merge >リモート名/ブランチ名?
+  - マージには3種類ある
+    - fast foward 枝分かれしていないときはポインタを進めるだけ
+    - auto merge 基本的なマージ、枝分かれしてる場合ｍマージコミットという新しいコミットを作る
+      - マージコミットは親を2つもつ
+  
+  
     
 
 
