@@ -151,8 +151,49 @@
     - auto merge 基本的なマージ、枝分かれしてる場合ｍマージコミットという新しいコミットを作る
       - マージコミットは親を2つもつ
   
-  
-    
+- リベース
+  - 変更を統合する際に、履歴をきれいにするために使用
+  - git rebase ブランチ名
+  - 親コミットを切り替える
+  - リベースとマージの違いは履歴が一直線化どうか（枝分かれしてるかどうか）
+  - githubにpushしたコミットはリベースするのはNG
+  - git push -fは絶対NG → gitの履歴が壊れる
 
+- マージ vs リベース
+  - マージの特徴
+    - コンフリクトの解決が簡単
+    - マージコミットがたくさんあると履歴が複雑化
+  - リベースの特徴
+    - 履歴をきれいに保つことができる
+    - コンフリクトの解決が若干面倒
+  - 作業の履歴を残したい場合、マージ、そうでなく履歴をきれいに保ちたいならリベース
+  - リベースは各コミットごとにリベース（コミット作り直し）するので、
+    コンフリクトがあった場合、コミット数分のコンフリクトが発生する
 
-  
+- pullにはマージ型とリベース型がある
+  - マージ型
+    - git pull <リモート名> <ブランチ名>
+    - マージコミットが残る
+  - リベース型
+    - git pull --rabase <リモート名> <ブランチ名>
+    - マージコミットが残らない
+    - デフォルトでリベース型にする設定  
+      - git config --global pull.rebase true
+      - git config branch.master.rabase true
+
+- コミットを整えてからpushする方法
+  - git rebase -i <コミットID>
+  - git rebase -i HEAD~3
+    - インタラクティブ　対話的リベース
+  - git commit --amend
+  - git continue
+
+  - 並び変える
+  - まとめる squash
+  - 分割
+    - git reset HEAD~
+    - git add reademe
+    - git commit
+    - git add index.html
+    - git commit
+    - git rebase --continue
