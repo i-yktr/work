@@ -1,0 +1,34 @@
+- gitによるバージョン管理
+  - version control system
+    - ローカル
+      - ディレクトリコピー
+      - revision control system
+    - 中央集中型
+      - concurrent versions system
+      - subversion
+      - azure devops server
+    - 分散型
+      - git
+      - mercurial
+
+- master 差別用語を使わない運動でmainになってる
+
+- 差分
+  - git diff コミットA コミットB
+  - git diff --cached リポジトリ インデックス
+  - git diff インデックス ワークツリー
+
+- git add
+  - git add -p ファイル名
+    - ハンク単位でコミット　※ハンクはファイル単位でなく、修正箇所単位
+
+- コミットオブジェクト・・・スナップショット（ファイル全体を圧縮して持ってる）
+
+- detached HEAD
+  - コミット時点のファイル状態を見たいとき
+
+- タグ
+  - コミットについたラベル
+
+- git checkout main
+  - ブランチをワークツリーに展開
