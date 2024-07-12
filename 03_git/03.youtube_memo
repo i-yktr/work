@@ -32,3 +32,31 @@
 
 - git checkout main
   - ブランチをワークツリーに展開
+
+- git help コマンド名
+
+- 3-way mergeは元のファイルとマージ二者
+
+- git cherry-pick
+  - 任意のコミットをとってくる
+
+- リベース
+  - cherry-pickが用いられてる
+
+- 歴史の修正
+  - git reflog
+    - 過去にブランチにどのコミットを指していたかを見る
+    - gitの操作ログ
+    - git reflogミスったコミット→git reset ミスったコミットIDで復元できる
+    - 操作log + その後にさすコミットID
+
+- リセット
+  - git reset --soft
+    - headを指定したコミットにリセット
+  - git reset --hardで好きなコミットにブランチを付け替えられる
+  - git reset --mixd + git checkout でgit reset --hard
+
+- コミット粒度とメッセージ
+  - 単一の関心事項のみを含むように
+    - コミットの入れ替えができる、cherry-pickができる
+  - コミットは現在形で書く（過去形でない）
