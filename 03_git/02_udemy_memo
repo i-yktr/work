@@ -197,3 +197,31 @@
     - git add index.html
     - git commit
     - git rebase --continue
+
+- タグ
+  - リリースポイントのコミットに名前を付ける
+    - git tag
+    - git tag l "201705"
+    - 注釈付き版と軽量版のタグがある
+    - 注釈付き・・・名前、コメント、署名
+      - git tag -a [タグ名] -m "メッセージ"
+    - 計量版・・・名前
+      - git tag [タグ名] -m "メッセージ"
+      - 昔のコミットに後からタグつけできる
+    - タグのデータを表示する 
+      - タグのデータを表示する
+
+- タグはgit pushで別途指定が必要
+  - git push [リモート名] [タグ名]
+  - git push origin --tags
+  - git push 
+
+- スタッシュ
+  - git stash
+  - git stash sava ※ savaは省略可能
+  - git stash list
+  - git stash apply [スタッシュ名]
+    - git stash apply 0
+  - git stash drop [スタッシュ名]
+    - git stash drop 0
+    - git stash ckear
